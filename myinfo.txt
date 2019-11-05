@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Name : Abdul Moaeed 
 email : abdulmoeed263@gmail.com
 P_no : 03xx-xxxxxx
+=======
+Name : Abdul Moaeed  
+email: abdulmoeed263@ucp.edu.pk
+P_no : 03xx-xxxxxxx
+>>>>>>> refs/remotes/origin/master
 Sec : G

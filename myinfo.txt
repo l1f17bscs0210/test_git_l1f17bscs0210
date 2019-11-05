@@ -1,5 +1,4 @@
-Abdul Moaeed \n student   
-email moeed@ucp
-phno 03xxxxxxx
-sec G
-good student
+Name : Abdul Moaeed  
+email: abdulmoeed263@ucp.edu.pk
+P_no : 03xx-xxxxxxx
+Sec : G
